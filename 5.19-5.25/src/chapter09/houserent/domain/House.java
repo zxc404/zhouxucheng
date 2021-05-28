@@ -2,6 +2,7 @@ package chapter09.houserent.domain;
 
 public class House {
 
+//    编号 房主 电话	地址 月租 状态(未出租/已出租)
     private int id;
     private  String name;
     private String  phone;
@@ -69,11 +70,11 @@ public class House {
 
     @Override
     public String toString() {
-        return  id + "\t" +
+        return  id + "\t\t" +
                 name + "\t" +
-                phone + "\t" +
+                phone + "\t\t" +
                 address + "\t" +
-                rent + "\t" +
+                rent + "\t\t" +
                 state;
     }
 }
