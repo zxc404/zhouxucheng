@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce0c8186-23d3-457d-85e1-572baea2c064" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../4.21-4.27/chapter02/chapter02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.21-4.27/chapter03/chapter03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.21-4.27/chapter04/chapter04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.28-5.11/chapter04/chapter041.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.28-5.11/chapter05/chapter05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.28-5.11/chapter06/chapter06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.28-5.11/chapter07/chapter07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.12-5.18/chapter07/Homework/Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.12-5.18/chapter07/In-class demo/In-class demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.12-5.18/chapter07/In-class demo/Overlord/Overlord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.12-5.18/chapter08/chapter08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5.12-5.18/chapter08/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5.12-5.18/chapter08/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\apache-maven-3.6.3\本地仓库" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uFCamFa25J7KF4mvgurUu6eQWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce0c8186-23d3-457d-85e1-572baea2c064" name="Default Changelist" comment="" />
+      <created>1624252015176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624252015176</updated>
+      <workItem from="1624252016465" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
